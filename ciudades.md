@@ -3,4 +3,5 @@
 1. Ciudad Gótica
 2. Metrópolis
 3. Hell's Kitchen
-4. 4. posadas
+4. posadas
+5. Pueblo paleta
