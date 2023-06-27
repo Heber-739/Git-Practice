@@ -1,2 +1,0 @@
-create flash historia
-asdasdasdasd
